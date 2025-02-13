@@ -142,6 +142,6 @@ This project is **open-source** and free to use.
 ## 👨‍💻 **Author**
 
 Developed by **D ARUN KUMAR**\
-📧 Contact: [**kumardarun11@gmail.com*](mailto\:kumardarun11@gmail.com)\
+📧 Contact: [*kumardarun11@gmail.com*](mailto\:kumardarun11@gmail.com)\
 🔗 LinkedIn: **www.linkedin.com/in/kumardarun11**
 
