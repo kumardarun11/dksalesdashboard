@@ -119,3 +119,10 @@ fig7.update_yaxes(title="Profit")
 st.plotly_chart(fig7, use_container_width=True)
 
 st.write("🔍 **Tip:** Use the sidebar to filter data and explore trends.")
+
+# ℹ Developer Info
+st.sidebar.markdown("---")
+st.sidebar.subheader("👨‍💻 Developer Info")
+st.sidebar.write("**Name:** D ARUN KUMAR")
+st.sidebar.write("📧 Email: kumardarun11@gmail.com")
+st.sidebar.write("[GitHub](https://github.com/kumardarun11) | [LinkedIn](https://linkedin.com/in/kumardarun11)")
