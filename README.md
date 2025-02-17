@@ -78,6 +78,41 @@ You can **host this dashboard for free** on **Streamlit Cloud**.
 
 ---
 
+## 🎥 **Screenshots**
+
+### 1️⃣ Monthly Sales Trend
+
+![image](https://github.com/user-attachments/assets/12eda9a4-9a9b-418b-a9b5-5a64fdac91df)
+
+### 2️⃣ Sales by Region
+
+![image](https://github.com/user-attachments/assets/5bd52757-df77-433f-95e3-8576e336e1dd)
+
+### 3️⃣ Sales by Category
+
+![image](https://github.com/user-attachments/assets/0518375c-417e-4007-87cc-2f9410c55a36)
+
+### 4️⃣ Top Selling Products
+
+![image](https://github.com/user-attachments/assets/fde4ea02-d0fb-4469-a81e-4cc77ff214a4)
+
+### 5️⃣ Profitability Trend
+
+![image](https://github.com/user-attachments/assets/9f6ef55d-9a80-4a15-bf56-09fdd23c9b20)
+
+### 6️⃣ Profitability Trend
+
+![image](https://github.com/user-attachments/assets/d0e79aec-d67e-45f5-b041-019071afba0e)
+
+### 7️⃣ Discount Impact on Sales
+
+![image](https://github.com/user-attachments/assets/e980829f-400e-461f-9f8e-63c6215308d4)
+
+### 8️⃣ Sales vs Profit Correlation
+
+![image](https://github.com/user-attachments/assets/613563cf-19cd-46c9-84d5-28b21cf67dc4)
+
+
 ## 🎯 **Usage Instructions**
 
 - Use the **sidebar filters** to explore data by **Year, Month, Region, and Category**.
