@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # ---- PAGE CONFIGURATION ----
-st.set_page_config(page_title="📊 DK Sales Dashboard", layout="wide")
+st.set_page_config(page_title="📊 KD11 Sales Dashboard", layout="wide")
 
 # ---- TITLE ----
 st.markdown("<h1 style='text-align: center; color:#4CAF50;'>📊 DK Sales Dashboard</h1>", unsafe_allow_html=True)
