@@ -1,5 +1,5 @@
 # 📊 KD11 Sales Dashboard
-## 🔗 **Live Demo:** [DK Sales Dashboard](https://dksalesdashboard.streamlit.app/)
+## 🔗 **Live Demo:** [KD11 Sales Dashboard](https://dksalesdashboard.streamlit.app/)
 ## 🚀 Overview
 
 DK Sales Dashboard is an **interactive sales analysis tool** built with **Streamlit, Pandas, and Plotly**.\
