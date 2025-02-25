@@ -1,4 +1,4 @@
-# 📊 DK Sales Dashboard
+# 📊 KD11 Sales Dashboard
 ## 🔗 **Live Demo:** [DK Sales Dashboard](https://dksalesdashboard.streamlit.app/)
 ## 🚀 Overview
 
